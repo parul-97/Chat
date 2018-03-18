@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "715741457301",
+    "firebase_url": "https://chatapplication-39703.firebaseio.com",
+    "project_id": "chatapplication-39703",
+    "storage_bucket": "chatapplication-39703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715741457301:android:4696aec04fb89c36",
+        "android_client_info": {
+          "package_name": "com.example.paruldhingra.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715741457301-sehpncm03u07jlate2rco70rum040g87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paruldhingra.chatapplication",
+            "certificate_hash": "4c195c91e7c3bc1846874b938eabfa5b277f276d"
+          }
+        },
+        {
+          "client_id": "715741457301-tlmucl2evtc1gh1spek821vkq7ctrgom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4pDuOn2uPhblZgDNxz5jwY6lY2BuqtWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715741457301-tlmucl2evtc1gh1spek821vkq7ctrgom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
